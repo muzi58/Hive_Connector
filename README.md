@@ -8,12 +8,15 @@
 
 **Hive Connect** is a modern, high-performance Hive database client designed for macOS. It is an **AI-assisted** open-source project aimed at providing a lightweight, low-resource alternative for Hive learners.
 
+![Hive Connect Screenshot](resources/screenshot.png)
+
 ## 🚀 主要特性 / Key Features
 
 ### 🇨🇳 中文
 *   🍃 **轻量低耗**：专为减轻电脑压力设计，运行时内存占用约 200MB，硬盘占用极低。
 *   ⚡️ **性能优化**：使用 Nuitka 静态编译，优化了应用启动速度和运行效率。
 *   🤖 **AI 辅助**：项目核心代码由 AI 辅助生成，适合作为 Python GUI 开发与 Hive 交互的学习案例。
+*   👆 **触控交互**：支持使用触控板捏合手势动态调节 SQL 编辑器字体大小，阅读更舒适。
 *   🔗 **多连接管理**：轻松管理多个 Hive 环境，支持 SASL、LDAP 等多种认证方式。
 *   ✏️ **智能编辑器**：内置语法高亮、自动行号、智能缩进的 SQL 编辑器。
 *   🖥 **macOS 适配**：遵循 macOS 设计规范，提供原生的视觉和交互体验。
@@ -22,6 +25,7 @@
 *   🍃 **Lightweight**: Designed to reduce system load, running with ~200MB memory usage and minimal disk footprint.
 *   ⚡️ **Performance Optimized**: Statically compiled with Nuitka for better startup time and runtime efficiency.
 *   🤖 **AI-Assisted**: Developed with AI assistance, serving as a great learning case for Python GUI and Hive interaction.
+*   👆 **Touch Control**: Dynamically adjust SQL editor font size using trackpad pinch gestures for better readability.
 *   🔗 **Connection Manager**: Easily manage multiple Hive environments with support for SASL, LDAP, and more.
 *   ✏️ **Smart Editor**: Built-in SQL editor with syntax highlighting, line numbering, and smart indentation.
 *   🌲 **Visual Explorer**: Intuitive tree view for browsing databases, table schemas, and columns.
