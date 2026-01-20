@@ -11,7 +11,7 @@
 ## 🚀 主要特性 / Key Features
 
 ### 🇨🇳 中文
-*   ⚡️ **极致性能**：使用 Nuitka 静态编译，启动速度提升 6 倍，不仅体积小巧，运行更流畅。
+*   ⚡️ **性能优化**：使用 Nuitka 静态编译，优化了应用启动速度和运行效率。
 *   🔗 **多连接管理**：轻松管理多个 Hive 环境，支持 SASL、LDAP 等多种认证方式。
 *   ✏️ **智能编辑器**：内置语法高亮、自动行号、智能缩进的 SQL 编辑器。
 *   🌲 **可视化浏览**：直观的树形结构查看数据库、表结构和字段信息。
@@ -19,7 +19,7 @@
 *   🖥 **macOS 适配**：遵循 macOS 设计规范，提供原生的视觉和交互体验。
 
 ### 🇺🇸 English
-*   ⚡️ **High Performance**: Statically compiled with Nuitka, launching 6x faster with a smaller footprint and smoother execution.
+*   ⚡️ **Performance Optimized**: Statically compiled with Nuitka for better startup time and runtime efficiency.
 *   🔗 **Connection Manager**: Easily manage multiple Hive environments with support for SASL, LDAP, and more.
 *   ✏️ **Smart Editor**: Built-in SQL editor with syntax highlighting, line numbering, and smart indentation.
 *   🌲 **Visual Explorer**: Intuitive tree view for browsing databases, table schemas, and columns.
