@@ -4,22 +4,24 @@
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
 ![Build](https://img.shields.io/badge/build-Nuitka-green.svg)
 
-**Hive Connect** 是一个专为 macOS 设计的现代化、高性能 Hive 数据库客户端。它基于 PySide6 构建，并使用 Nuitka 编译技术，在 Apple Silicon 芯片上提供原生的极速体验。
+**Hive Connect** 是一个专为 macOS 设计的现代化、高性能 Hive 数据库客户端。它是由 **AI 辅助开发** 的开源项目，旨在为 Hive 学习者提供一个轻量级、低资源占用的替代工具。
 
-**Hive Connect** is a modern, high-performance Hive database client designed for macOS. Built with PySide6 and compiled using Nuitka, it delivers a native, blazing-fast experience on Apple Silicon.
+**Hive Connect** is a modern, high-performance Hive database client designed for macOS. It is an **AI-assisted** open-source project aimed at providing a lightweight, low-resource alternative for Hive learners.
 
 ## 🚀 主要特性 / Key Features
 
 ### 🇨🇳 中文
+*   🍃 **轻量低耗**：专为减轻电脑压力设计，运行时内存占用约 200MB，硬盘占用极低。
 *   ⚡️ **性能优化**：使用 Nuitka 静态编译，优化了应用启动速度和运行效率。
+*   🤖 **AI 辅助**：项目核心代码由 AI 辅助生成，适合作为 Python GUI 开发与 Hive 交互的学习案例。
 *   🔗 **多连接管理**：轻松管理多个 Hive 环境，支持 SASL、LDAP 等多种认证方式。
 *   ✏️ **智能编辑器**：内置语法高亮、自动行号、智能缩进的 SQL 编辑器。
-*   🌲 **可视化浏览**：直观的树形结构查看数据库、表结构和字段信息。
-*   📊 **数据交互**：清晰的结果展示网格，支持大数据量快速渲染。
 *   🖥 **macOS 适配**：遵循 macOS 设计规范，提供原生的视觉和交互体验。
 
 ### 🇺🇸 English
+*   🍃 **Lightweight**: Designed to reduce system load, running with ~200MB memory usage and minimal disk footprint.
 *   ⚡️ **Performance Optimized**: Statically compiled with Nuitka for better startup time and runtime efficiency.
+*   🤖 **AI-Assisted**: Developed with AI assistance, serving as a great learning case for Python GUI and Hive interaction.
 *   🔗 **Connection Manager**: Easily manage multiple Hive environments with support for SASL, LDAP, and more.
 *   ✏️ **Smart Editor**: Built-in SQL editor with syntax highlighting, line numbering, and smart indentation.
 *   🌲 **Visual Explorer**: Intuitive tree view for browsing databases, table schemas, and columns.
